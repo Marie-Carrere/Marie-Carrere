@@ -6,7 +6,7 @@
 <p>
   <samp>
     <a href="https://www.mariecarrere.com">Website</a> •
-    <a href="https://twitter.com/carrere_marie>Twitter</a>
+    <a href="https://twitter.com/carrere_marie">Twitter</a>
   </samp>
 </p>
 
