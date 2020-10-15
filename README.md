@@ -5,8 +5,8 @@
 <img src="https://media.giphy.com/media/KziKCpvrGngHbYjaUF/giphy.gif" />
 <p>
   <samp>
-    <a href="https://www.mariecarrere.com/">Website</a> •
-    <a href="https://twitter.com/carrere-marie">Twitter</a>
+    <a href="https://www.mariecarrere.com" target="_blank">Website</a> •
+    <a href="https://twitter.com/carrere-marie" target="_blank">Twitter</a>
   </samp>
 </p>
 
@@ -17,7 +17,7 @@
 <ul>
 <samp>
   <li>📕 Learning about <strong>TypeScript</strong>, <strong>GraphQL</strong>, <strong>PostgreSQL</strong>, and a bit of <strong>serverless architectures</strong>.</li>
-  <li>👩‍💻 Most of my projects are available on <a href="https://github.com/Marie-Carrere"><span style="color: #be5543">GitHub</span></a>.</li>
+  <li>👩‍💻 Most of my projects are available on <a href="https://github.com/Marie-Carrere" target="_blank">GitHub</a>.</li>
   <li>💬 Ping me about <strong>JavaScript, React and Cloud stuff</strong>.</li>
   <li>🎊 Fun Fact: 저는 언어 배우는 것을 좋아합니다</li>
 </samp>
