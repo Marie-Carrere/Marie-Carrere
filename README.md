@@ -3,12 +3,6 @@
 </br>
 
 <img src="https://media.giphy.com/media/KziKCpvrGngHbYjaUF/giphy.gif" />
-<p>
-  <samp>
-    <a href="https://www.mariecarrere.com">Website</a> •
-    <a href="https://twitter.com/carrere_marie">Twitter</a>
-  </samp>
-</p>
 
 <hr>
 
